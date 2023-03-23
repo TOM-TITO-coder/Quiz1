@@ -1,8 +1,8 @@
 # Hello, my collaborators please help me this task below exclude task 1:  
 
 1) First/landing page => YOU
-2) User registering page
-3) User reset password page
+2) User registering page  => Techchhiv
+3) User reset password page  => sovortey514
 4) User login page
 5) List of test results for a user
 6) User typing test page
