@@ -1,4 +1,4 @@
-# Quiz1
+# Hello, my collaborators please help me this task below exclude task 1:  
 
 1) First/landing page => YOU
 2) User registering page
